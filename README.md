@@ -3,12 +3,12 @@
 **Clone the repo**
 
 ```bash
-git clone https://github.com/roevevgen/blog.git
+git clone https://github.com/roevevgen/yogalaxica.git
 ```
 **Switch into the newly created repo folder**
 
 ```bash
-cd blog
+cd yogalaxica
 ```
 **Install the dependencies**
 
